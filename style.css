@@ -7,13 +7,13 @@
     font-size: 40px;
     text-align: center;
     color: #00d5e4;
-    padding: 100px 250px 200px 250px;
+    padding: 100px 5px 200px 5px;
   }
  .bio{
    font-family: cursive;
    font-size: 20px;
-   padding-left: 10px;
-   padding-left: 10px;
+   padding-left: 3px;
+   padding-left: 3px;
    text-align: center;
  }
  .Iam{
@@ -24,9 +24,6 @@
  }
  .develop{
    color:rgb(3, 245, 56);
- }
- .icons{
-   font-size: 15px;
  }
  img{
    max-block-size: 40px;
