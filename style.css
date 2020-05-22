@@ -43,6 +43,7 @@
 
  
 .snow {
+        z-index: -1;
 	position: fixed;
 	min-width: 100vw;
 	min-height: 100vh;
