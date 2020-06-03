@@ -179,10 +179,10 @@
   /*perspective: 1000px;*/ /* Remove this if you don't want the 3D effect */
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 768px) {
   .flip-card {
     padding-right: 5px;
-    padding-bottom: 10px;
+    padding-bottom: 30px;
     width :100%;
     text-align: center;
   }
