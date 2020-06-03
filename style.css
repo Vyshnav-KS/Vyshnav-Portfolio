@@ -8,19 +8,17 @@
     font-size: 40px;
     text-align: center;
     color: #00d5e4;
-<<<<<<< HEAD
     padding: 50px 5px 200px 5px;
   }
  .bio{
    font-family: 'Lobster Two','cursive' ;
    font-size: 25px;
-=======
+
     padding: 100px 5px 200px 5px;
   }
  .bio{
    font-family: cursive;
    font-size: 20px;
->>>>>>> refs/remotes/origin/master
    padding-left: 3px;
    padding-left: 3px;
    text-align: center;
@@ -38,15 +36,13 @@
  .develop{
    color:rgb(3, 245, 56);
  }
-<<<<<<< HEAD
+
 .connect_with{
   text-align: center;
   font-family: 'Lobster two', 'cursive';
   font-size: 18px;
   color: white;
 }
-=======
->>>>>>> refs/remotes/origin/master
  img{
    max-block-size: 40px;
  }
@@ -62,32 +58,18 @@
    font-family: sans-serif;
  }
 
-
-<<<<<<< HEAD
-.snow {
-  z-index: -1;
-=======
- 
 .snow {
         z-index: -1;
->>>>>>> refs/remotes/origin/master
 	position: fixed;
 	min-width: 100vw;
 	min-height: 100vh;
 	height: 100%;
 	width: 100%;
-<<<<<<< HEAD
   top: 0;
   left: 0;
 }
 
 
-=======
-	top: 0;
-  left: 0;
-}
-
->>>>>>> refs/remotes/origin/master
 .snow .svg {
 	position: absolute;
 	width: 100%;
@@ -113,7 +95,6 @@
 	}
 	
 }
-<<<<<<< HEAD
 
 /* Dropdown Button */
 /*
@@ -265,5 +246,3 @@
   color: #00d5e4;
 }
 
-=======
->>>>>>> refs/remotes/origin/master
