@@ -10,15 +10,10 @@
     color: #00d5e4;
     padding: 50px 5px 200px 5px;
   }
- .bio{
-   font-family: 'Lobster Two','cursive' ;
-   font-size: 25px;
 
-    padding: 100px 5px 200px 5px;
-  }
  .bio{
-   font-family: cursive;
-   font-size: 20px;
+   font-family: "Lobster Two", cursive;
+   font-size: 24px;
    padding-left: 3px;
    padding-left: 3px;
    text-align: center;
